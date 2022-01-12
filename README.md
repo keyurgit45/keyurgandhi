@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keyur Gandhi</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Java, JavaScript**
 
 - 👨‍💻 All of my projects are available at [keyurgandhi-45.web.app](keyurgandhi-45.web.app)
 
@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyurgit45&show_icons=true&locale=en&layout=compact" alt="keyurgit45" /></p>
 
-
+<p></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyurgit45&show_icons=true&locale=en" alt="keyurgit45" /></p>
