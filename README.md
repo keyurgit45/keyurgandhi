@@ -19,7 +19,7 @@
 https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkeyur4tech123&logo=leetcode&logoColor=yellow -->
 
 ## 😀 Glad to see you here!  
-I am a passionate Flutter developer who enjoys building beautiful and engaging mobile apps. I am currently studying Computer Engineering at VIIT Pune. In my free time, I like to play chess as it helps me think hard and plan my moves carefully. Riding my bike gives me a sense of adventure and freedom while listening to music while coding helps me focus and makes my work more enjoyable. Additionally, I love drinking coffee; it's like a little treat that keeps me going. These hobbies help me stay creative and learn new things, not just in technology but also in life.
+I am a passionate Flutter developer who enjoys building beautiful and engaging mobile apps. I am currently studying Computer Engineering at VIIT Pune. In my free time, I like to play chess as it helps me think hard and plan my moves carefully. Riding my bike gives me a sense of adventure and freedom. Listening to music while coding helps me focus and makes my work more enjoyable. Additionally, I love drinking coffee; it's like a little treat that keeps me going. These hobbies help me stay creative and learn new things, not just in technology but also in life.
 <br/>
 
 ## 💫 About Me  
