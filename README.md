@@ -1,15 +1,15 @@
 ## Hey 👋, I'm Keyur Gandhi!  
   
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/Keyur50832359" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/keyur-gandhi-7277341ab/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/keyur_gandhi_01" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://leetcode.com/keyur4tech123/" target="_blank">
 <img src=https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkeyur4tech123&logo=leetcode&logoColor=yellow alt=instagram style="margin-bottom: 5px;" />
 </a>
 
